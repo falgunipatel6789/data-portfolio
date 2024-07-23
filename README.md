@@ -1,2 +1,2 @@
 # data-portfolio
-1 )  power BI reports ( superheroes , data related job based repory)
+1 )  power BI reports (  data related job based report , superheroes report)
