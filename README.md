@@ -5,4 +5,4 @@
 3) Excel Report (GDP PER CAPITA(PPP))
 https://justit831.sharepoint.com/:x:/s/msteams_2d1793/EcFhn77wfctEou3tALPI-A4BMvQalEAOiS9i_u8mL0wlvQ?e=OYkHsl
 4) Tablue Report (The Wealth Of Nations)
-MYSQL Report
+MYSQL Report about 'world '
